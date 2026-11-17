@@ -1,0 +1,9 @@
+{
+    "companion_name": "AI-ru",
+    "voice_profile": "neutral_echo",
+    "first_run": true,
+    "model_name": "qwen2.5:7b",
+    "max_response_tokens": 384,
+    "speech_pause_seconds": 1.0,
+    "vision_model": "gemma3:4b"
+}

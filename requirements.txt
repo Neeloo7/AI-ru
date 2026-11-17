@@ -1,0 +1,14 @@
+customtkinter
+requests
+faster-whisper
+pyttsx3
+kokoro-onnx==0.6.1
+webrtcvad-wheels==2.0.14
+pywinauto==0.6.9; sys_platform == "win32"
+sounddevice
+numpy
+Pillow>=11.2.1
+PyQt6
+PyQt6-WebEngine
+pywin32; sys_platform == "win32"
+pycaw; sys_platform == "win32"
